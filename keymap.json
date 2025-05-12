@@ -1,0 +1,11 @@
+[
+  {
+    "context": "vim_mode == insert",
+    "bindings": {
+      "cmd-j s c": [
+        "workspace::SendKeystrokes",
+        "enter enter // enter // enter // enter // enter // enter // enter // enter // enter enter"
+      ]
+    }
+  }
+]
